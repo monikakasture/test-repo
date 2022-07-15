@@ -1,3 +1,5 @@
 hello
 hello monika
 hello world
+print('Hello, world!')
+hello
